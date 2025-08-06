@@ -2,9 +2,6 @@
 # 🔒 LockedIn — Back to Basics Well-Being Coach
 _A privacy-first, offline mental-wellness PWA powered entirely by **Gemma 3n** on-device._
 
-<p align="center">
-  <img alt="LockedIn demo screenshot" src="assets/screenshot.png" width="720">
-</p>
 
 > **Subtitle:** “When life is overwhelming, lock-in the basics—sleep, move, journal, repeat.”
 
@@ -35,12 +32,4 @@ Gemma 3n runs locally to deliver empathetic coaching, crisis detection and perso
 
 ---
 
-## 📸 3-min Demo Video
 
-[![Watch the demo](https://img.youtube.com/vi/YOUR_DEMO_ID/0.jpg)](https://youtu.be/YOUR_DEMO_ID)
-
-(Replace with your public link before submission.)
-
----
-
-## 🏗 Architecture Overview
